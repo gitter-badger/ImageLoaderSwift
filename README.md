@@ -9,7 +9,8 @@ Features
 - [x] Simple methods with UIImageView Category.
 - [x] A module for cache can be set by yourself.
 - [x] Loading images is handled by ImageLoader, not UIImageView.
-
+- [ ] After image view start loading another image, previous loading task is possible to live with caching.
+- [ ] Comprehensive Unit Test Coverage
 
 Requirements
 ----------
